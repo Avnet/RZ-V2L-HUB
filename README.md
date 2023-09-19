@@ -41,6 +41,7 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 
 ## Related Repositories
 - [RZBoard Metalayer](https://github.com/Avnet/meta-rzboard): Contains the Yocto metalayer specific to the Rz V2L as well as **building information**
+- [AI SDK](https://renesas-rz.github.io/rzv_ai_sdk/2.00/ai-sdk.html): Contains the Renesas AI SDK & **many** demo applications
 - [Trail Cam Demo](https://github.com/Avnet/RzBoard-Trail-Camera-Demo): Demo of trail-cam capabilites
 - [AI Launch Demo](https://github.com/Avnet/rzboard_demo_launcher): Demo of AI & IoT capabilities of the Rz V2L
 - [Flashing Utility](https://github.com/Avnet/rzboard_flash_util): Platform agnostic RzV2L flashing utility
