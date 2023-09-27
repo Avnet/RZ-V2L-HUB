@@ -1,6 +1,6 @@
 # RZBoard V2L - Information Hub
-![5](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/eaf0df26-313c-4b5a-a0eb-06c3fb0a04bf)
 
+![5](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/6a6582e3-29ef-4bfe-adc2-5dd52a620f01)
 
 Welcome to the information hub for RZBoard V2L, an exciting AI on the edge device. RZ/V2L is capable of [low-power, real-time AI inferencing](https://youtu.be/pZxYlWScN6s?si=x3NiITPa7GP88W0n) thanks to its DRP-AI accelerator. This repository serves as a central hub for all resources related to RZBoard V2L.
 
@@ -21,7 +21,7 @@ It’s RZ/V2L processor has two 1.2GHz Arm® Cortex®-A55 cores plus a 200MHz Co
 
 
 ### Form Factor & Interfaces
-![image6](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/5b8dbc20-5158-499a-b0f2-31341db23d42)
+![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/1a795eb7-9978-48fc-986e-40ab5f9e8514)
 
 RZBoard V2L is engineered in a compact Raspberry Pi form-factor with a versatile set of expansion interfaces, including Gigabit Ethernet, 801.11ac Wi-Fi and Bluetooth 5, two USB 2.0 host and a USB 2.0 OTG interface, MIPI DSI and CSI camera interfaces, CANFD interface, Pi-HAT compatible 40-pin expansion header and Click Shuttle expansion header.
 
