@@ -4,6 +4,8 @@
 
 Welcome to the information hub for RZBoard V2L, an exciting AI on the edge device. RZ/V2L is capable of [low-power, real-time AI inferencing](https://youtu.be/pZxYlWScN6s?si=x3NiITPa7GP88W0n) thanks to its DRP-AI accelerator. This repository serves as a central hub for all resources related to RZBoard V2L.
 
+[Buy an RZ/V2L](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/rzboard-v2l/)
+
 ## Table of Contents
 - [About](#about)
 - [Related Repositories](#related-repositories)
@@ -36,6 +38,8 @@ Software enablement includes CIP Kernel based Linux BSP (maintained for 10 years
 
 ### Accessories
 Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5V/3A USB Type C power supply.
+
+[View other Avnet boards](https://www.avnet.com/wps/portal/us/products/avnet-boards/)
 </details>
 
 
