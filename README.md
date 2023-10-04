@@ -64,7 +64,7 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | [Monitoring retail checkout lines with Renesas RZ/V2L](https://www.hackster.io/sologithu/monitoring-retail-checkout-lines-with-renesas-rz-v2l-kit-769df0) | Counting people at different checkout lines using an Edge Impulse YOLOv5 | Intermediate |
 | [Product inspection with Renesas RZ/V2L and Edge Impulse](https://www.hackster.io/sologithu/product-inspection-with-renesas-rz-v2l-and-edge-impulse-cf0700) | Performing quality inspection for manufactured parts using Edge Impulse | Intermediate |
 | [Counting inventory with Renesas RZ/V2L kit](https://www.hackster.io/sologithu/counting-inventory-with-renesas-rz-v2l-kit-a9cb2e) | Count and analyze different inventory products using an Edge Impulse YOLOv5 model | Intermediate |
-
+| [Build, Deploy, & Run a Qt Enabled Image on the RZBoard V2L](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41) | Run QT applications on the RZ V2L after learning how to build and deploy with open source software | Intermediate |
 
 ## Getting Started and Manuals
 ### Product Brief
