@@ -44,11 +44,11 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 
 
 ## Related Repositories
-- [RZBoard Metalayer](https://github.com/Avnet/meta-rzboard): Contains the Yocto metalayer specific to the Rz V2L as well as **building information**
+- [RZBoard Metalayer](https://github.com/Avnet/meta-rzboard): Contains the Yocto metalayer specific to RZBoard V2L as well as **building information**
 - [AI SDK](https://renesas-rz.github.io/rzv_ai_sdk/2.00/ai-sdk.html): Contains the Renesas AI SDK & **many** demo applications
 - [AI Library](https://github.com/Ignitarium-Renesas/RZV2L_AiLibrary): API functions for leveraging AI applications that will run on Renesas RZ/V2L Board
 - [Trail Cam Demo](https://github.com/Avnet/RzBoard-Trail-Camera-Demo): Demo of trail-cam capabilites
-- [AI Launch Demo](https://github.com/Avnet/rzboard_demo_launcher): Demo of AI & IoT capabilities of the Rz V2L
+- [AI Launch Demo](https://github.com/Avnet/rzboard_demo_launcher): Demo of AI & IoT capabilities of RZBoard V2L
 - [Flashing Utility](https://github.com/Avnet/rzboard_flash_util): Platform agnostic RzV2L flashing utility
 
 ## Related Blog Posts
@@ -56,15 +56,15 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | Topic | Description | Difficulty |
 | -- | -- | -- |
 | [AI Apps Integrating Linux with RTOS for Real Time Detection](https://www.hackster.io/bernard-ngabonziza/ai-apps-integrating-linux-with-rtos-for-real-time-detection-3e7b66) | Fast boot real-time inference at the edge by integrating Linux with RTOS on Avnet's RzBoard | Advanced |
-| [Train & Deploy ML Model on RzBoard with Edge-Impulse](https://www.hackster.io/bernard-ngabonziza/train-deploy-ml-model-on-rzboard-with-edge-impulse-ff846e) | Running embedded Machine Learning on RzBoard: Train a Machine learning Model on edge impulse and Deploy it on RzBoard as DRP-AI library | Advanced |
+| [Train & Deploy ML Model on RzBoard with Edge-Impulse](https://www.hackster.io/bernard-ngabonziza/train-deploy-ml-model-on-rzboard-with-edge-impulse-ff846e) | Running embedded Machine Learning on RZBoard: Train a Machine learning Model on edge impulse and Deploy it on RzBoard as DRP-AI library | Advanced |
 | [Build your yocto image for RzBoard and Network boot it](https://www.hackster.io/bernard-ngabonziza/build-your-yocto-image-for-rzboard-and-network-boot-it-0e96b4) | Building an RZ/V2L image from an ubuntu machine | Advanced |
-| [Build an RzBoard Yocto Image integrated with FreeRTOS](https://www.hackster.io/bernard-ngabonziza/build-an-rzboard-yocto-image-integrated-with-freertos-085ceb) | Build your Yocto Image and integrate it with FreeRTOS on RzBoard for real time detection ML Apps | Advanced |
-| [Run Machine Learning on the RzBoard](https://www.hackster.io/monica/run-machine-learning-on-the-rzboard-326098) | Translate an onnx model so you can easily run it on Avnet's RzBoard | Intermediate |
+| [Build an RzBoard Yocto Image integrated with FreeRTOS](https://www.hackster.io/bernard-ngabonziza/build-an-rzboard-yocto-image-integrated-with-freertos-085ceb) | Build your Yocto Image and integrate it with FreeRTOS on RZBoard for real time detection ML Apps | Advanced |
+| [Run Machine Learning on RzBoard V2L](https://www.hackster.io/monica/run-machine-learning-on-the-rzboard-326098) | Translate an onnx model so you can easily run it on Avnet's RZBoard | Intermediate |
 | [DRP-AI dashboard for vision-AI processing on RZBoard V2L](https://www.hackster.io/peter-fenn/drp-ai-dashboard-for-vision-ai-processing-on-rzboard-v2l-527098) | Browser-based AI inference exercises using USB camera and power-efficient DRP-AI acceleration | Intermediate |
 | [Monitoring retail checkout lines with Renesas RZ/V2L](https://www.hackster.io/sologithu/monitoring-retail-checkout-lines-with-renesas-rz-v2l-kit-769df0) | Counting people at different checkout lines using an Edge Impulse YOLOv5 | Intermediate |
 | [Product inspection with Renesas RZ/V2L and Edge Impulse](https://www.hackster.io/sologithu/product-inspection-with-renesas-rz-v2l-and-edge-impulse-cf0700) | Performing quality inspection for manufactured parts using Edge Impulse | Intermediate |
 | [Counting inventory with Renesas RZ/V2L kit](https://www.hackster.io/sologithu/counting-inventory-with-renesas-rz-v2l-kit-a9cb2e) | Count and analyze different inventory products using an Edge Impulse YOLOv5 model | Intermediate |
-| [Build, Deploy, & Run a Qt Enabled Image on the RZBoard V2L](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41) | Run QT applications on the RZ V2L after learning how to build and deploy with open source software | Intermediate |
+| [Build, Deploy, & Run a Qt Enabled Image on RZBoard V2L](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41) | Run QT applications on RZBoard V2L after learning how to build and deploy with open source software | Intermediate |
 
 ## Getting Started and Manuals
 ### Product Brief
