@@ -7,22 +7,25 @@ Welcome to the information hub for RZBoard V2L, an exciting AI on the edge devic
 [Buy an RZ/V2L](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/rzboard-v2l/)
 
 ## Table of Contents
+
 - [About](#about)
+- [Getting Started & Manuals](#getting-started-and-manuals)
 - [Related Repositories](#related-repositories)
 - [Related Blog Posts](#related-blog-posts)
-- [Getting Started & Manuals](#getting-started-and-manuals)
 
 ## About
-RZBoard V2L is a power efficient, vision-AI accelerated development board in popular single board computer format with well supported expansion interfaces. This Renesas RZ/V2L processor-based platform is ideal for development of cost-efficient Vision-AI and a range of energy-efficient Edge AI applications. 
+
+RZBoard V2L is a power efficient, vision-AI accelerated development board in popular single board computer format with well supported expansion interfaces. This Renesas RZ/V2L processor-based platform is ideal for development of cost-efficient Vision-AI and a range of energy-efficient Edge AI applications.
 
 <details>
     <summary>More information & Specs</summary>
 
 ### Processing
+
 It’s RZ/V2L processor has two 1.2GHz Arm® Cortex®-A55 cores plus a 200MHz Cortex-M33 core, a MALI 3D GPU and Image Scaling Unit. This processor SoC further differentiates itself with an on-chip DRP-AI accelerator plus H.264 video (1920 x 1080) encode/decode function in silicon, making it ideal for implementing cost-effective embedded-vision applications.
 
-
 ### Form Factor & Interfaces
+
 ![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/1a795eb7-9978-48fc-986e-40ab5f9e8514)
 
 RZBoard V2L is engineered in a compact Raspberry Pi form-factor with a versatile set of expansion interfaces, including Gigabit Ethernet, 801.11ac Wi-Fi and Bluetooth 5, two USB 2.0 host and a USB 2.0 OTG interface, MIPI DSI and CSI camera interfaces, CANFD interface, Pi-HAT compatible 40-pin expansion header and Click Shuttle expansion header.
@@ -34,16 +37,38 @@ The board supports analog audio applications via it’s audio codec and stereo h
 Onboard memory includes 2GB DDR4, 32GB eMMC and 16MB QSPI flash memory, plus microSD slot for removable media.
 
 ### Software & BSP
+
 Software enablement includes CIP Kernel based Linux BSP (maintained for 10 years+) plus reference designs that highlight efficient vision AI implementations using the DRP-AI core.
 
 ### Accessories
+
 Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5V/3A USB Type C power supply.
 
 [View other Avnet boards](https://www.avnet.com/wps/portal/us/products/avnet-boards/)
 </details>
 
+## Getting Started and Manuals
+
+### Product Brief
+
+- [Block Diagram](https://www.avnet.com/wps/wcm/connect/onesite/0db4f6f2-d463-40d0-9175-60b0adf1a310/P22_762_RZBoard-V2L-diagram.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-0db4f6f2-d463-40d0-9175-60b0adf1a310-o2QupOk)
+- [Product Brief](https://www.avnet.com/wps/wcm/connect/onesite/82f0d2aa-3c73-4275-8849-d1e39a7b9ac9/FY23_800_RZBoard_V2L_Product_Brief_al.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-82f0d2aa-3c73-4275-8849-d1e39a7b9ac9-oksCzeU)
+
+### Getting Started Guide
+
+- [Yocto User Manual](https://www.avnet.com/wps/wcm/connect/onesite/9fe02bc9-8335-4da2-924a-1bdde941e534/RzBoard-Linux-Yocto-UserManual-v2.2.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-9fe02bc9-8335-4da2-924a-1bdde941e534-oFe8N5b)
+
+### Hardware Guide
+
+- [Quick Start Guide](https://www.avnet.com/wps/wcm/connect/onesite/ce8a3314-917a-4f34-88fe-9070f3ead337/RzBoard+V2L+Quick+StartGuide+v1.1.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-ce8a3314-917a-4f34-88fe-9070f3ead337-ogmeZpu)
+- [User Guide](https://www.avnet.com/wps/wcm/connect/onesite/86d72e54-3eef-4ceb-8464-de54e28dd79f/RzBoard+V2L+Hardware+User+Guide+%28v1.0%29.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-86d72e54-3eef-4ceb-8464-de54e28dd79f-ogmeSxB)
+
+### Development Guides
+
+- [Yocto Development Guide](https://www.avnet.com/wps/wcm/connect/onesite/463da618-000a-4989-aad6-785cf45bb84d/RZBoard-Linux-Yocto-Development-Guide-v2.6.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-463da618-000a-4989-aad6-785cf45bb84d-oFe8GfG)
 
 ## Related Repositories
+
 - [RZBoard Metalayer](https://github.com/Avnet/meta-rzboard): Contains the Yocto metalayer specific to RZBoard V2L as well as **building information**
 - [AI SDK](https://renesas-rz.github.io/rzv_ai_sdk/2.00/ai-sdk.html): Contains the Renesas AI SDK & **many** demo applications
 - [AI Library](https://github.com/Ignitarium-Renesas/RZV2L_AiLibrary): API functions for leveraging AI applications that will run on Renesas RZ/V2L Board
@@ -65,15 +90,3 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | [Product inspection with Renesas RZ/V2L and Edge Impulse](https://www.hackster.io/sologithu/product-inspection-with-renesas-rz-v2l-and-edge-impulse-cf0700) | Performing quality inspection for manufactured parts using Edge Impulse | Intermediate |
 | [Counting inventory with Renesas RZ/V2L kit](https://www.hackster.io/sologithu/counting-inventory-with-renesas-rz-v2l-kit-a9cb2e) | Count and analyze different inventory products using an Edge Impulse YOLOv5 model | Intermediate |
 | [Build, Deploy, & Run a Qt Enabled Image on RZBoard V2L](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41) | Run QT applications on RZBoard V2L after learning how to build and deploy with open source software | Intermediate |
-
-## Getting Started and Manuals
-### Product Brief
-- [Block Diagram](https://www.avnet.com/wps/wcm/connect/onesite/0db4f6f2-d463-40d0-9175-60b0adf1a310/P22_762_RZBoard-V2L-diagram.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-0db4f6f2-d463-40d0-9175-60b0adf1a310-o2QupOk)
-- [Product Brief](https://www.avnet.com/wps/wcm/connect/onesite/82f0d2aa-3c73-4275-8849-d1e39a7b9ac9/FY23_800_RZBoard_V2L_Product_Brief_al.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-82f0d2aa-3c73-4275-8849-d1e39a7b9ac9-oksCzeU)
-### Getting Started Guide
-- [Yocto User Manual](https://www.avnet.com/wps/wcm/connect/onesite/9fe02bc9-8335-4da2-924a-1bdde941e534/RzBoard-Linux-Yocto-UserManual-v2.2.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-9fe02bc9-8335-4da2-924a-1bdde941e534-oFe8N5b)
-### Hardware Guide
-- [Quick Start Guide](https://www.avnet.com/wps/wcm/connect/onesite/ce8a3314-917a-4f34-88fe-9070f3ead337/RzBoard+V2L+Quick+StartGuide+v1.1.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-ce8a3314-917a-4f34-88fe-9070f3ead337-ogmeZpu)
-- [User Guide](https://www.avnet.com/wps/wcm/connect/onesite/86d72e54-3eef-4ceb-8464-de54e28dd79f/RzBoard+V2L+Hardware+User+Guide+%28v1.0%29.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-86d72e54-3eef-4ceb-8464-de54e28dd79f-ogmeSxB)
-### Development Guides
-- [Yocto Development Guide](https://www.avnet.com/wps/wcm/connect/onesite/463da618-000a-4989-aad6-785cf45bb84d/RZBoard-Linux-Yocto-Development-Guide-v2.6.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-463da618-000a-4989-aad6-785cf45bb84d-oFe8GfG)
