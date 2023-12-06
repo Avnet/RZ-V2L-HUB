@@ -81,10 +81,10 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | Topic | Description | Difficulty |
 | -- | -- | -- |
 | [AI Apps Integrating Linux with RTOS for Real Time Detection](https://www.hackster.io/bernard-ngabonziza/ai-apps-integrating-linux-with-rtos-for-real-time-detection-3e7b66) | Fast boot real-time inference at the edge by integrating Linux with RTOS on Avnet's RzBoard | Advanced |
-| [Realtime PCB Defect-Detection using RZBoard V2L](https://avnet.me/rzboard-defect-detection) | Fast, high-accuracy, and power-efficient detection of PCB manufacturing faults | Intermediate |
 | [Train & Deploy ML Model on RzBoard with Edge-Impulse](https://www.hackster.io/bernard-ngabonziza/train-deploy-ml-model-on-rzboard-with-edge-impulse-ff846e) | Running embedded Machine Learning on RZBoard: Train a Machine learning Model on edge impulse and Deploy it on RzBoard as DRP-AI library | Advanced |
 | [Build your yocto image for RzBoard and Network boot it](https://www.hackster.io/bernard-ngabonziza/build-your-yocto-image-for-rzboard-and-network-boot-it-0e96b4) | Building an RZ/V2L image from an ubuntu machine | Advanced |
 | [Build an RzBoard Yocto Image integrated with FreeRTOS](https://www.hackster.io/bernard-ngabonziza/build-an-rzboard-yocto-image-integrated-with-freertos-085ceb) | Build your Yocto Image and integrate it with FreeRTOS on RZBoard for real time detection ML Apps | Advanced |
+| [Realtime PCB Defect-Detection using RZBoard V2L](https://avnet.me/rzboard-defect-detection) | Fast, high-accuracy, and power-efficient detection of PCB manufacturing faults | Intermediate |
 | [Run Machine Learning on RzBoard V2L](https://www.hackster.io/monica/run-machine-learning-on-the-rzboard-326098) | Translate an onnx model so you can easily run it on Avnet's RZBoard | Intermediate |
 | [DRP-AI dashboard for vision-AI processing on RZBoard V2L](https://www.hackster.io/peter-fenn/drp-ai-dashboard-for-vision-ai-processing-on-rzboard-v2l-527098) | Browser-based AI inference exercises using USB camera and power-efficient DRP-AI acceleration | Intermediate |
 | [Monitoring retail checkout lines with Renesas RZ/V2L](https://www.hackster.io/sologithu/monitoring-retail-checkout-lines-with-renesas-rz-v2l-kit-769df0) | Counting people at different checkout lines using an Edge Impulse YOLOv5 | Intermediate |
