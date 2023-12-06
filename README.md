@@ -81,6 +81,7 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | Topic | Description | Difficulty |
 | -- | -- | -- |
 | [AI Apps Integrating Linux with RTOS for Real Time Detection](https://www.hackster.io/bernard-ngabonziza/ai-apps-integrating-linux-with-rtos-for-real-time-detection-3e7b66) | Fast boot real-time inference at the edge by integrating Linux with RTOS on Avnet's RzBoard | Advanced |
+| [Realtime PCB Defect-Detection using RZBoard V2L](https://avnet.me/rzboard-defect-detection) | Fast, high-accuracy, and power-efficient detection of PCB manufacturing faults | Intermediate |
 | [Train & Deploy ML Model on RzBoard with Edge-Impulse](https://www.hackster.io/bernard-ngabonziza/train-deploy-ml-model-on-rzboard-with-edge-impulse-ff846e) | Running embedded Machine Learning on RZBoard: Train a Machine learning Model on edge impulse and Deploy it on RzBoard as DRP-AI library | Advanced |
 | [Build your yocto image for RzBoard and Network boot it](https://www.hackster.io/bernard-ngabonziza/build-your-yocto-image-for-rzboard-and-network-boot-it-0e96b4) | Building an RZ/V2L image from an ubuntu machine | Advanced |
 | [Build an RzBoard Yocto Image integrated with FreeRTOS](https://www.hackster.io/bernard-ngabonziza/build-an-rzboard-yocto-image-integrated-with-freertos-085ceb) | Build your Yocto Image and integrate it with FreeRTOS on RZBoard for real time detection ML Apps | Advanced |
@@ -90,3 +91,8 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | [Product inspection with Renesas RZ/V2L and Edge Impulse](https://www.hackster.io/sologithu/product-inspection-with-renesas-rz-v2l-and-edge-impulse-cf0700) | Performing quality inspection for manufactured parts using Edge Impulse | Intermediate |
 | [Counting inventory with Renesas RZ/V2L kit](https://www.hackster.io/sologithu/counting-inventory-with-renesas-rz-v2l-kit-a9cb2e) | Count and analyze different inventory products using an Edge Impulse YOLOv5 model | Intermediate |
 | [Build, Deploy, & Run a Qt Enabled Image on RZBoard V2L](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41) | Run QT applications on RZBoard V2L after learning how to build and deploy with open source software | Intermediate |
+
+### Latest Blog
+[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/e466117b-f992-46ee-b2c6-6d376f24bb88)](https://www.hackster.io/lucas-keller/realtime-pcb-defect-detection-using-rzboard-v2l-16f95e)
+
+
