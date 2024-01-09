@@ -92,7 +92,9 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | [Counting inventory with Renesas RZ/V2L kit](https://www.hackster.io/sologithu/counting-inventory-with-renesas-rz-v2l-kit-a9cb2e) | Count and analyze different inventory products using an Edge Impulse YOLOv5 model | Intermediate |
 | [Build, Deploy, & Run a Qt Enabled Image on RZBoard V2L](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41) | Run QT applications on RZBoard V2L after learning how to build and deploy with open source software | Intermediate |
 
-### Latest Blog
-[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/e466117b-f992-46ee-b2c6-6d376f24bb88)](https://www.hackster.io/lucas-keller/realtime-pcb-defect-detection-using-rzboard-v2l-16f95e)
+### Latest Blogs
+[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/f0c7d48a-a99c-4376-afc1-b023159584ab)](https://www.hackster.io/lucas-keller/realtime-pcb-defect-detection-using-rzboard-v2l-16f95e)
+[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/2bd450fd-de57-4304-8731-8481c126ed7e)](https://www.hackster.io/lucas-keller/mastering-rzboardv2l-emmc-micro-sd-and-network-booting-dc87f3)
+[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/5df5c2e6-942f-4360-94e6-079c5e5098ae)](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41)
 
 
