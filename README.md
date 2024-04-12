@@ -75,6 +75,7 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 - [Trail Cam Demo](https://github.com/Avnet/RzBoard-Trail-Camera-Demo): Demo of trail-cam capabilites
 - [AI Launch Demo](https://github.com/Avnet/rzboard_demo_launcher): Demo of AI & IoT capabilities of RZBoard V2L
 - [Flashing Utility](https://github.com/Avnet/rzboard_flash_util): Platform agnostic RzV2L flashing utility
+- [Smart Parking Demo](https://github.com/Avnet/SPARK): Smart Parking Ai RZBoard Kit -> Edge AI + Cloud enablement
 
 ## Related Blog Posts
 
@@ -93,8 +94,10 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | [Build, Deploy, & Run a Qt Enabled Image on RZBoard V2L](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41) | Run QT applications on RZBoard V2L after learning how to build and deploy with open source software | Intermediate |
 
 ### Latest Blogs
+[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/6ad042bc-b39f-4739-ad89-04f952e8cfe8)](https://www.hackster.io/franknwachukwuononye/parking-occupancy-detection-on-edge-impulse-8a21be)
+
 [![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/f0c7d48a-a99c-4376-afc1-b023159584ab)](https://www.hackster.io/lucas-keller/realtime-pcb-defect-detection-using-rzboard-v2l-16f95e)
+
 [![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/2bd450fd-de57-4304-8731-8481c126ed7e)](https://www.hackster.io/lucas-keller/mastering-rzboardv2l-emmc-micro-sd-and-network-booting-dc87f3)
-[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/5df5c2e6-942f-4360-94e6-079c5e5098ae)](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41)
 
 
