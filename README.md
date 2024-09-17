@@ -81,6 +81,8 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 
 | Topic | Description | Difficulty |
 | -- | -- | -- |
+| [Smart Parking AI with Telemetry](https://www.hackster.io/lucas-keller/smart-parking-ai-with-telemetry-on-rzboard-v2l-fd3eb9) | Learn how to build and deploy smart parking AI to RZBoard | Advanced |
+| [RZBuddy Dispenser Preview](https://www.hackster.io/lucas-keller/preview-rzbuddy-the-smart-pet-companion-for-anxiety-c50c87) | See what smart dispenser implementations can look like on RZBoard | Advanced |
 | [AI Apps Integrating Linux with RTOS for Real Time Detection](https://www.hackster.io/bernard-ngabonziza/ai-apps-integrating-linux-with-rtos-for-real-time-detection-3e7b66) | Fast boot real-time inference at the edge by integrating Linux with RTOS on Avnet's RzBoard | Advanced |
 | [Train & Deploy ML Model on RzBoard with Edge-Impulse](https://www.hackster.io/bernard-ngabonziza/train-deploy-ml-model-on-rzboard-with-edge-impulse-ff846e) | Running embedded Machine Learning on RZBoard: Train a Machine learning Model on edge impulse and Deploy it on RzBoard as DRP-AI library | Advanced |
 | [Build your yocto image for RzBoard and Network boot it](https://www.hackster.io/bernard-ngabonziza/build-your-yocto-image-for-rzboard-and-network-boot-it-0e96b4) | Building an RZ/V2L image from an ubuntu machine | Advanced |
@@ -94,10 +96,9 @@ Available accessory options include a MIPI 7-inch display, MIPI CSI camera and 5
 | [Build, Deploy, & Run a Qt Enabled Image on RZBoard V2L](https://www.hackster.io/lucas-keller/build-deploy-run-a-qt-enabled-image-on-the-rzboard-v2l-de6c41) | Run QT applications on RZBoard V2L after learning how to build and deploy with open source software | Intermediate |
 
 ### Latest Blogs
-[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/6ad042bc-b39f-4739-ad89-04f952e8cfe8)](https://www.hackster.io/franknwachukwuononye/parking-occupancy-detection-on-edge-impulse-8a21be)
+
+[![image](https://github.com/user-attachments/assets/430f7ff1-043d-40b1-9ec6-1f35208d236b)](https://www.hackster.io/lucas-keller/preview-rzbuddy-the-smart-pet-companion-for-anxiety-c50c87)
+
+[![image](https://github.com/user-attachments/assets/4a13e017-2f1a-4c36-9a1e-c34ad8df4fca)](https://www.hackster.io/lucas-keller/smart-parking-ai-with-telemetry-on-rzboard-v2l-fd3eb9)
 
 [![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/f0c7d48a-a99c-4376-afc1-b023159584ab)](https://www.hackster.io/lucas-keller/realtime-pcb-defect-detection-using-rzboard-v2l-16f95e)
-
-[![image](https://github.com/Avnet/RZ-V2L-HUB/assets/44109284/2bd450fd-de57-4304-8731-8481c126ed7e)](https://www.hackster.io/lucas-keller/mastering-rzboardv2l-emmc-micro-sd-and-network-booting-dc87f3)
-
-
